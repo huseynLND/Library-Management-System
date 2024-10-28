@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\librar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|c:\\users\\i novbe\\source\\repos\\librar\\libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|solutionrelative:libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|c:\\users\\i novbe\\source\\repos\\librar\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|c:\\users\\i novbe\\source\\repos\\librar\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|solutionrelative:dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|c:\\users\\i novbe\\source\\repos\\librar\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|solutionrelative:librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|c:\\users\\i novbe\\source\\repos\\librar\\librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|solutionrelative:librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|c:\\users\\i novbe\\source\\repos\\librar\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|c:\\users\\i novbe\\source\\repos\\librar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|c:\\users\\i novbe\\source\\repos\\librar\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|c:\\users\\i novbe\\source\\repos\\librar\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|solutionrelative:librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|c:\\users\\i novbe\\source\\repos\\librar\\libarylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|solutionrelative:libarylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|c:\\users\\i novbe\\source\\repos\\librar\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|solutionrelative:magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|c:\\users\\i novbe\\source\\repos\\librar\\bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9035F7AC-0AC1-488B-91BF-9DBC14F1DBA1}|librar.csproj|solutionrelative:bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\librar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\librar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:30:10.463Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\librar\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\librar\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:41:16.056Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryMember.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\librar\\LibraryMember.cs",
+              "RelativeDocumentMoniker": "LibraryMember.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\librar\\LibraryMember.cs",
+              "RelativeToolTip": "LibraryMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:49:41.204Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "librarian.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\librar\\librarian.cs",
+              "RelativeDocumentMoniker": "librarian.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\librar\\librarian.cs",
+              "RelativeToolTip": "librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:41:51.939Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryHelper.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\librar\\LibraryHelper.cs",
+              "RelativeDocumentMoniker": "LibraryHelper.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\librar\\LibraryHelper.cs",
+              "RelativeToolTip": "LibraryHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:42:42.251Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\librar\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryItem.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\librar\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:52:06.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookGenre.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\librar\\BookGenre.cs",
+              "RelativeDocumentMoniker": "BookGenre.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\librar\\BookGenre.cs",
+              "RelativeToolTip": "BookGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:31:58.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\librar\\DVD.cs",
+              "RelativeDocumentMoniker": "DVD.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\librar\\DVD.cs",
+              "RelativeToolTip": "DVD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:36:29.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\librar\\Magazine.cs",
+              "RelativeDocumentMoniker": "Magazine.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\librar\\Magazine.cs",
+              "RelativeToolTip": "Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:35:00.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibaryLocation.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\librar\\LibaryLocation.cs",
+              "RelativeDocumentMoniker": "LibaryLocation.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\librar\\LibaryLocation.cs",
+              "RelativeToolTip": "LibaryLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:34:02.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\librar\\LibraryCatalog.cs",
+              "RelativeDocumentMoniker": "LibraryCatalog.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\librar\\LibraryCatalog.cs",
+              "RelativeToolTip": "LibraryCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:43:11.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\librar\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\librar\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:42:20.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
